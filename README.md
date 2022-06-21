@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Simran Dubey
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently pursuing my Master's in Data Science
-- 💞️ I’m looking for a Data Scientist , Machine Learning job role.
+- 🌱 I have completed my Master's in Data Science and Big Data Analytics.
+- 💞️ I’m currently looking for a full-time opportunity in Data Scientist, Machine Learning Engineer, Computer Vision role.
 - 📫 How to reach me : https://www.linkedin.com/in/ai-simran-dubey/ 
 
 <!---
